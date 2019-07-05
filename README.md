@@ -3,8 +3,12 @@
 
 
 <div>
-<img src="./image/select.png" width="200"></img>
-<img src="./image/select2.png" width="200"></img>
-<img src="./image/classblank.PNG" width="200"></img>
+<img src="./image/select.png" width="350"></img>
+</div>
+<div>
+<img src="./image/select2.png" width="350"></img>
+</div>
+<div>
+<img src="./image/classblank.PNG" width="350"></img>
 </div>
 
