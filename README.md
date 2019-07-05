@@ -1,13 +1,18 @@
 ### 삼육대학교 공강 강의실 찾기
 ---
-![CreatePlan](./image/select.png){: width="30%" height="30%"}
-
+<div>
+<img src="./image/select.png" width="60%"></img>
+</div>
 ---
 
-![CreatePlan](./image/select2.png){: width="30%" height="30%"}
-
+<div>
+<img src="./image/select2.png" width="60%"></img>
+</div>
 ---
 
-![CreatePlan](./image/classblank.PNG){: width="30%" height="30%"}
+<div>
+<img src="./image/classblank.PNG" width="60%"></img>
+</div>
+---
 
 
